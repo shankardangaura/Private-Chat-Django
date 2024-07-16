@@ -6,7 +6,7 @@ This is Web Application for online messaging. This project is based on Django Ch
 #Activate the virtual environment by the cmnd : 
     for windows: .\privatechat_env\Scripts\Activate 
     for linux, mac : source privatechat_env/bin/activate
-#Install Django latest verssion by cmd: pip install django channels
+#Install Django latest version in that virtual env by cmd: pip install django channels
 #create the project by cmd: django-admin startporject privatechat
 #change the cmd directory by: cd privatechat
 #creeate core project by cmd: python manage.py startapp core
